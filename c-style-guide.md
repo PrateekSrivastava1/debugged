@@ -41,11 +41,16 @@ There should be a space after a construct name, and the opening parantheses, lik
 - `while (condition)`
 - `if (condition)`
 
+Insert a space after the comment symbol like this:
+- `// Comment with a space between '//' and description`
+
 ### Comments
+Every program should have a multiline **header comment** explaining the program.
+
 Every function should have an accompanying comment on top, like this:
 
 ```C
-Returns the largest element from the parameter array
+// Returns the largest element from the parameter array
 int find_largest(int array[], int size)
 ```
 
