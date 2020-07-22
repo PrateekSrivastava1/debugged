@@ -45,7 +45,13 @@ Insert a space after the comment symbol like this:
 - `// Comment with a space between '//' and description`
 
 ### Comments
-Every program should have a multiline **header comment** explaining the program.
+Every program should have a multiline **header comment** explaining the program, like this:
+```c
+/* C Program to find and print the largest element
+* from an array
+* Input Constraint: Size > 5
+*/
+```
 
 Every function should have an accompanying comment on top, like this:
 
