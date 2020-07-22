@@ -19,7 +19,7 @@ Functions and variables names should follow the snake case convention.
 For example, consider the following names:
 - `num_of_letters`
 - `array_1_size`
-- `find_largest_num`
+- `find_largest_num()`
 
 Constant should follow the same convention, except that the characters should be all caps
 - `float MATH_PI = 3.14159;`
