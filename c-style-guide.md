@@ -25,7 +25,7 @@ Constants should follow the same convention, except that the characters should b
 - `float MATH_PI = 3.14159;`
 
 ## Indentation
-[Allman Indentation Style](https://en.wikipedia.org/wiki/Indentation_style#Allman_style) should be used throughout the program.  
+[Allman Indentation Style](https://en.wikipedia.org/wiki/Indentation_style#Allman_style) should be used throughout the program.
 
 ## Spacing
 There should be a space **before** and **after** every operators, like this:
