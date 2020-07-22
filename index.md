@@ -1,3 +1,3 @@
 # Resources for t.me/DebuggedBBDU
 
-[C language resources](resources)
+[C language resources](resources.md)
