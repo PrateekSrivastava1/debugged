@@ -56,7 +56,7 @@ int find_largest(int array[], int size)
 
 Complex constructs should have an accompanying comment explaining their work on top, like this:
 
-``c
+```c
 int max = array[0]
 // Find the largest element
 for (int i = 0; i < size; i++)
