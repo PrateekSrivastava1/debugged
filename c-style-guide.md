@@ -1,6 +1,6 @@
 # Styling guidelines for code written in The C Programming Language
 
-```C
+```c
 #include <stdio.h>
 int main()
 {
@@ -49,14 +49,14 @@ Every program should have a multiline **header comment** explaining the program.
 
 Every function should have an accompanying comment on top, like this:
 
-```C
+```c
 // Returns the largest element from the parameter array
 int find_largest(int array[], int size)
 ```
 
 Complex constructs should have an accompanying comment explaining their work on top, like this:
 
-```C
+``c
 int max = array[0]
 // Find the largest element
 for (int i = 0; i < size; i++)
