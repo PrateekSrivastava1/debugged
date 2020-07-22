@@ -1,3 +1,3 @@
 # Resources for t.me/DebuggedBBDU
 
-[C language resources](resources.md)
+[C Programming Language Style Guide](/c-style-guide.md)
