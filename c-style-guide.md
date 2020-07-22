@@ -14,20 +14,20 @@ Above snippet is probably the first C program you ever wrote in your life.
 But, as you ease into the world of programming and write more intricate and long code, you'll need to keep its readability in your mind.
 Written below, are some conventions that are recommended to be followed while writing programs in C. They're not rules, just a set of guidelines to help you write cleaner code.
 
-### Naming:
+## Naming
 Functions and variables names should follow the snake case convention.
 For example, consider the following names:
 - `num_of_letters`
 - `array_1_size`
 - `find_largest_num()`
 
-Constant should follow the same convention, except that the characters should be all caps
+Constants should follow the same convention, except that the characters should be all caps
 - `float MATH_PI = 3.14159;`
 
-### Indentation
+## Indentation
 [Allman Indentation Style](https://en.wikipedia.org/wiki/Indentation_style#Allman_style) should be used throughout the program.
 
-### Spacing
+## Spacing
 There should be a space **before** and **after** every operators, like this:
 - `int x = 0`
 - `for (int i = 0; i < size; i++)`
@@ -44,7 +44,9 @@ There should be a space after a construct name, and the opening parantheses, lik
 Insert a space after the comment symbol like this:
 - `// Comment with a space between '//' and description`
 
-### Comments
+<div></div>
+
+## Comments
 Every program should have a multiline **header comment** explaining the program, like this:
 ```c
 /* 
