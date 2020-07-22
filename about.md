@@ -6,4 +6,4 @@ Debugged is a Telegram group initiated for promoting a positive programming cult
 - Debugging and Code review support
 - Challenges and Quizzes.
 
-Join at t.me/DebuggedBBDU
+[Join Debugged](https://t.me/DebuggedBBDU)
